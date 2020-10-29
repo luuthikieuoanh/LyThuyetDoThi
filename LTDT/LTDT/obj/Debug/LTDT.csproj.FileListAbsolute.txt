@@ -1,0 +1,5 @@
+D:\LTDT\LTDT\bin\Debug\LTDT.exe
+D:\LTDT\LTDT\bin\Debug\LTDT.pdb
+D:\LTDT\LTDT\obj\Debug\LTDT.csprojResolveAssemblyReference.cache
+D:\LTDT\LTDT\obj\Debug\LTDT.exe
+D:\LTDT\LTDT\obj\Debug\LTDT.pdb
